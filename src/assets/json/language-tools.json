@@ -1,0 +1,49 @@
+ [{
+     "name": "HTML",
+     "url": "https://en.wikipedia.org/wiki/HTML"
+   },
+   {
+     "name": "CSS",
+     "url": "https://en.wikipedia.org/wiki/CSS"
+   },
+   {
+     "name": "JavaScript",
+     "url": "https://en.wikipedia.org/wiki/JavaScript"
+   },
+   {
+     "name": "TypeScript",
+     "url": "https://www.typescriptlang.org/"
+   },
+   {
+     "name": "PHP",
+     "url": "https://www.php.net/"
+   },
+   {
+     "name": "Angular",
+     "url": "https://angular.io/"
+   },
+   {
+     "name": "Bootstrap",
+     "url": "https://getbootstrap.com/"
+   },
+   {
+     "name": "Tailwind CSS",
+     "url": "https://tailwindcss.com/"
+   },
+  {
+     "name": "Git",
+     "url": "https://git-scm.com/"
+   },
+   {
+     "name": "MySQL",
+     "url": "https://www.mysql.com/"
+   },
+   {
+     "name": "Figma",
+     "url": "https://www.figma.com/"
+   },
+   {
+     "name": "Angular 17",
+     "url": "https://angular.dev/"
+   }
+ ]
